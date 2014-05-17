@@ -11,7 +11,7 @@ var BGsolid = false;
 */
 
 ///var mijnBreedte = app.project.item(1).layer(1).width;
-//alert (mijnBreedte);
+//alert (mijnBreedte123);
 app.beginUndoGroup("DC_TextSize");
 
 function myScript(thisObj){
