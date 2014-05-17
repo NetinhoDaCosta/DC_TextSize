@@ -1,0 +1,1 @@
+DC_textSize is an after effects script. It detects the bounding box size of text objects and stores this data into slider effect objects.
